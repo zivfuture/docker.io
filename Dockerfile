@@ -1,1 +1,1 @@
-FROM docker.io/library/kong:3.8
+FROM docker.io/kong:3.8
